@@ -1,0 +1,13 @@
+canvas{
+    border: 3px;
+    box-shadow: 2px;
+    padding: 5px;
+    margin: 3px;
+}
+
+.copy_right_footer{
+    background-color: red;
+    border: 2px;
+    padding: 5px;
+    margin: 10px;
+}
